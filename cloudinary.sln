@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cloudinary", "cloudinary\cloudinary.csproj", "{01B0BE4B-EC8D-4E25-BDAE-D2AACA82CD73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B0BE4B-EC8D-4E25-BDAE-D2AACA82CD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B0BE4B-EC8D-4E25-BDAE-D2AACA82CD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B0BE4B-EC8D-4E25-BDAE-D2AACA82CD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B0BE4B-EC8D-4E25-BDAE-D2AACA82CD73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rahulkhadse.visualstudio.com/
+		SccProjectUniqueName0 = cloudinary\\cloudinary.csproj
+		SccProjectName0 = cloudinary
+		SccLocalPath0 = cloudinary
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal

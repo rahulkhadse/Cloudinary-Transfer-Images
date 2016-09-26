@@ -1,0 +1,9 @@
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\bin\Debug\cloudinary.exe.config
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\bin\Debug\cloudinary.exe
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\bin\Debug\cloudinary.pdb
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\bin\Debug\CloudinaryDotNet.dll
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\bin\Debug\Newtonsoft.Json.dll
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\bin\Debug\Newtonsoft.Json.xml
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\obj\Debug\cloudinary.csprojResolveAssemblyReference.cache
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\obj\Debug\cloudinary.exe
+c:\users\rkhadse\documents\visual studio 2015\Projects\cloudinary\cloudinary\obj\Debug\cloudinary.pdb
